@@ -6,11 +6,11 @@ data_movement = [
         description: "移動消耗: 每 5 呎 消耗 5 呎",
         reference: "PHB, pg. 190.",
         bullets: [
-            "如果你已經移動了多過一次, 如你的步行速度和飛行速度, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed.",
-            "You can move through a nonhostile creature's space.",
-            "You can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you.",
-            "Another creature's space is difficult terrain for you.",
-            "Whether a creature is a friend or an enemy, you can't willingly end your move in its space."
+            "如果你已經移動了多過一次, 如你的步行速度和飛行速度, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed.",
+            "You can move through a nonhostile creature‘s space.",
+            "You can move through a hostile creature’s space only if the creature is at least two sizes larger or smaller than you.",
+            "Another creature‘s space is difficult terrain for you.",
+            "Whether a creature is a friend or an enemy, you can’t willingly end your move in its space."
         ]
     },
     {
@@ -62,7 +62,7 @@ data_movement = [
         description: "移動消耗: 角色一半的移動速度",
         reference: "PHB, pg. 190-191.",
         bullets: [
-            "You can't stand up if you don't have enough movement left or if your speed is 0"
+            "You can‘t stand up if you don’t have enough movement left or if your speed is 0"
         ]
     },
     {
@@ -88,7 +88,7 @@ data_movement = [
         bullets: [
             "You cover a number of feet up to your <b>Strength score</b> if you move at least 10 feet on foot immediately before the jump.",
             "When you make a standing long jump, you can leap only half that distance",
-            "May involve a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance). You hit the obstacle on a failed check.",
+            "May involve a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump‘s distance). You hit the obstacle on a failed check.",
             "May involve a DC 10 Dexterity (Acrobatics) check to land on your feet in difficult terrain. You land prone on a failed check."
         ]
     },
@@ -111,7 +111,7 @@ data_movement = [
         ]
     },
     {
-        title: "抓斗移動 Grapple move",
+        title: "抓捕移動 Grapple move",
         icon: "grab",
         subtitle: "消耗修正: 速度減半",
         description: "拖動或攜帶被抓的生物",

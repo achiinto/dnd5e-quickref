@@ -2,8 +2,8 @@ data_movement = [
     {
         title: "移動 Move",
         icon: "run",
-        subtitle: "Cost: 5ft per 5ft",
-        description: "移動消耗: 每 5呎 消耗 5呎",
+        subtitle: "消耗: 每 5 呎 消耗 5 呎",
+        description: "移動消耗: 每 5 呎 消耗 5 呎",
         reference: "PHB, pg. 190.",
         bullets: [
             "如果你已經移動了多過一次, 如你的步行速度和飛行速度, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed.",
@@ -14,30 +14,30 @@ data_movement = [
         ]
     },
     {
-        title: "Climb",
+        title: "攀爬 Climb",
         icon: "crags",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft climbed",
+        subtitle: "消耗: 每 5 呎 消耗 10 呎",
+        description: "移動消耗: 每 5 呎 消耗 10 呎攀爬",
         reference: "PHB, pg. 182.",
         bullets: [
             "May involve a Strength (Athletics) check if the climb is difficult"
         ]
     },
     {
-        title: "Swim",
+        title: "游泳 Swim",
         icon: "at-sea",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft swum",
+        subtitle: "消耗: 每 5 呎 消耗 10 呎",
+        description: "移動消耗: 每 5 呎 消耗 10 呎游泳",
         reference: "PHB, pg. 182.",
         bullets: [
             "May involve a Strength (Athletics) check if the swim is difficult"
         ]
     },
     {
-        title: "Drop prone",
+        title: "倒下 Drop prone",
         icon: "falling",
-        subtitle: "Cost: 0ft",
-        description: "Movement cost: 0ft (free)",
+        subtitle: "消耗 0 呎",
+        description: "移動消耗: 0 呎 (免費)",
         reference: "PHB, pgs. 190-191,292.",
         bullets: [
             "You can drop prone without using any of your speed",
@@ -46,30 +46,30 @@ data_movement = [
         ]
     },
     {
-        title: "Crawl",
+        title: "爬行 Crawl",
         icon: "crawl",
-        subtitle: "Cost: 10ft per 5ft",
-        description: "Movement cost: 10ft per 5ft crawled",
+        subtitle: "消耗: 每 5 呎 消耗 10 呎",
+        description: "移動消耗: 每 5 呎 消耗 10 呎爬行",
         reference: "PHB, pg. 182.",
         bullets: [
 
         ]
     },
     {
-        title: "Stand up",
+        title: "站起來 Stand up",
         icon: "strong",
-        subtitle: "Cost: half movement speed",
-        description: "Movement cost: half of your speed",
+        subtitle: "消耗: 角色一半的移動速度",
+        description: "移動消耗: 角色一半的移動速度",
         reference: "PHB, pg. 190-191.",
         bullets: [
             "You can't stand up if you don't have enough movement left or if your speed is 0"
         ]
     },
     {
-        title: "High jump",
+        title: "跳高 High jump",
         icon: "wingfoot",
-        subtitle: "Cost: 5ft per 5ft",
-        description: "Movement cost: 5ft per 5ft jumped",
+        subtitle: "消耗: 每 5 呎 消耗 5 呎",
+        description: "移動消耗: 每 5 呎 消耗 5 呎 跳躍",
         
         reference: "PHB, pg. 182.",
         bullets: [
@@ -80,10 +80,10 @@ data_movement = [
         ]
     },
     {
-        title: "Long jump",
+        title: "跳遠 Long jump",
         icon: "wingfoot",
-        subtitle: "Cost: 5ft per 5ft",
-        description: "Movement cost: 5ft per 5ft jumped",
+        subtitle: "消耗: 每 5 呎 消耗 5 呎",
+        description: "移動消耗: 每 5 呎 消耗 5 呎 跳躍",
         reference: "PHB, pg. 182.",
         bullets: [
             "You cover a number of feet up to your <b>Strength score</b> if you move at least 10 feet on foot immediately before the jump.",
@@ -93,28 +93,28 @@ data_movement = [
         ]
     },
     {
-        title: "Improvise",
+        title: "除意創意 Improvise",
         icon: "juggler",
-        subtitle: "Any stunt not on this list",
-        description: "Perform any movement or stunt you can imagine",
+        subtitle: "不在此清單上的任何特技",
+        description: "執行你可以想像的任何動作或特技",
         bullets: [
             "When you describe a kind of movement not detailed elsewhere in the rules, the DM tells you whether it is possible and what kind of roll you need to make, if any, to determine success or failure."
         ]
     },
     {
-        title: "Difficult terrain",
+        title: "困難的地形 Difficult terrain",
         icon: "stone-pile",
-        subtitle: "Cost modifier: +5ft per 5ft",
+        subtitle: "消耗修正: 每 5 呎 加 5 呎",
         reference: "PHB, pg. 182.",
         description: "Moving in difficult terrain costs an additional 5ft per 5ft of movement",
         bullets: [
         ]
     },
     {
-        title: "Grapple move",
+        title: "抓斗移動 Grapple move",
         icon: "grab",
-        subtitle: "Modifier: speed halved",
-        description: "Drag or carry the grappled creature with you",
+        subtitle: "消耗修正: 速度減半",
+        description: "拖動或攜帶被抓的生物",
         reference: "PHB, pg. 195.",
         bullets: [
             "If you move while grappling another creature, your speed is halved, unless the creature is two or more sizes smaller than you.",

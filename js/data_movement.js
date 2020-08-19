@@ -1,12 +1,12 @@
 data_movement = [
     {
-        title: "Move",
+        title: "移動 Move",
         icon: "run",
         subtitle: "Cost: 5ft per 5ft",
-        description: "Movement cost: 5ft per 5ft moved",
+        description: "移動消耗: 每 5呎 消耗 5呎",
         reference: "PHB, pg. 190.",
         bullets: [
-            "If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed.",
+            "如果你已經移動了多過一次, 如你的步行速度和飛行速度, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed.",
             "You can move through a nonhostile creature's space.",
             "You can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you.",
             "Another creature's space is difficult terrain for you.",

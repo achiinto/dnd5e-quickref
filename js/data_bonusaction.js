@@ -1,9 +1,9 @@
 data_bonusaction = [
     {
-        title: "Offhand Attack",
+        title: "次手攻擊 Offhand Attack",
         icon: "crossed-swords",
-        subtitle: "Use with the Attack action",
-        description: "Attack with your off hand",
+        subtitle: "跟攻擊行動一同使用",
+        description: "用你非主力的手作出攻擊",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
             "Only usable if you take the <i>Attack</i> action and attack with a light melee weapon that you're holding in one hand.",
@@ -13,10 +13,10 @@ data_bonusaction = [
         ]
     },
     {
-        title: "Cast a spell",
+        title: "使用魔法 Cast a spell",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 bonus action",
-        description: "Cast a spell with a casting time of 1 bonus action",
+        subtitle: "一個額外行動內可詠唱的魔法",
+        description: "使用一個可在一個額外行動內詠唱而成的魔法",
         reference: "PHB, pg. 192.",
         bullets: [
             "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
@@ -24,11 +24,11 @@ data_bonusaction = [
         ]
     },
     {
-        title: "Use class feature",
+        title: "使用職業類別功能 Use class feature",
         icon: "embrassed-energy",
-        subtitle: "Some features use bonus actions",
-        description: "Use a racial or class feature that uses a bonus action",
-        reference: "See class page for more information.",
+        subtitle: "有些功能是要使用額外很行動的",
+        description: "使用一個需要用上額外行動的種族類別或職業類別功能",
+        reference: "請參考「職業」資料頁。",
         bullets: [
 
         ]

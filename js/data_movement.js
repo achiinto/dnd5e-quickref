@@ -74,7 +74,7 @@ data_movement = [
         reference: "PHB, pg. 182.",
         bullets: [
             "當你至少用腳行走了10呎遠後，你可以向上跳起至3 + 力量加減度 (Strength modifier)的呎高。",
-            "如果你在沒有助跑的情況下原地跳高，你只能夠條起至一半的高度。",
+            "如果你在沒有助跑的情況下原地跳高，你只能夠跳起至一半的高度。",
             "當你跳起時，你可以把雙手提升至你自己身高的一半。",
             "在某些情況下，你的地下城主可能會准許你做一次力量「運動」測試 （Strength Athletics)來決定你可否跳得比你平常所跳得高。"
         ]
@@ -86,8 +86,8 @@ data_movement = [
         description: "移動消耗: 每 5 呎 消耗 5 呎 跳躍",
         reference: "PHB, pg. 182.",
         bullets: [
-            "You cover a number of feet up to your <b>Strength score</b> if you move at least 10 feet on foot immediately before the jump.",
-            "When you make a standing long jump, you can leap only half that distance",
+            "當你至少用腳行走了10呎遠後，你可以向前跳遠至你的體力值 (Strength score)的呎數距離。",
+            "如果你在沒有助跑的情況下原地跳遠，你只能夠跳遠至一半的距離。",
             "May involve a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump‘s distance). You hit the obstacle on a failed check.",
             "May involve a DC 10 Dexterity (Acrobatics) check to land on your feet in difficult terrain. You land prone on a failed check."
         ]
@@ -98,7 +98,7 @@ data_movement = [
         subtitle: "不在此清單上的任何特技",
         description: "執行你可以想像的任何動作或特技",
         bullets: [
-            "When you describe a kind of movement not detailed elsewhere in the rules, the DM tells you whether it is possible and what kind of roll you need to make, if any, to determine success or failure."
+            "當你所形容的動作沒有在規則中存在，你的地下城主會跟你說明是否可能並且有需要投什麼骰來決定成敗。"
         ]
     },
     {

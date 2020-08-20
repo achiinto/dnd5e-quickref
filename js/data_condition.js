@@ -2,8 +2,8 @@ data_condition = [
     {
         title: "失明 Blinded",
         icon: "one-eyed",
-        subtitle: "You can't see",
-        description: "You can't see",
+        subtitle: "你眼前一遍黑暗",
+        description: "你眼前一遍黑暗",
         reference: "PHB, pg. 290.",
         bullets: [
             "You automatically fail any ability check which requires sight.",
@@ -12,10 +12,10 @@ data_condition = [
         ]
     },
     {
-        title: "Charmed",
+        title: "被迷惑 Charmed",
         icon: "smitten",
-        subtitle: "You are charmed",
-        description: "You are charmed by another creature",
+        subtitle: "你被迷惑了",
+        description: "你被另一個生物迷惑了",
         reference: "PHB, pg. 290.",
         bullets: [
             "You can't attack your charmer or target them with harmful abilities or magical effects.",
@@ -23,20 +23,20 @@ data_condition = [
         ]
     },
     {
-        title: "Deafened",
+        title: "失聰 Deafened",
         icon: "elf-ear",
-        subtitle: "You can't hear",
-        description: "You can't hear",
+        subtitle: "你聽不到聲音",
+        description: "你聽不到聲音",
         reference: "PHB, pg. 290.",
         bullets: [
             "You automatically fail any ability check which requires hearing."
         ]
     },
     {
-        title: "Exhaustion",
+        title: "虛脫 Exhaustion",
         icon: "crawl",
-        subtitle: "You are exhausted",
-        description: "Exhaustion is measured in six levels",
+        subtitle: "你已經筋疲力盡",
+        description: "虛脫度是有六個不同水平",
         reference: "PHB, pg. 291.",
         bullets: [
             "<table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Disadvantage on ability checks</td></tr><tr><td>2</td><td></td><td></td><td>Speed halved</td></tr><tr><td>3</td><td></td><td></td><td>Disadvantage on attack rolls and saving throws</td></tr><tr><td>4</td><td></td><td></td><td>Hit point maximum halved</td></tr><tr><td>5</td><td></td><td></td><td>Speed reduced to 0</td></tr><tr><td>6</td><td></td><td></td><td>Death</td></tr></table>",
@@ -58,8 +58,8 @@ data_condition = [
     {
         title: "被抓捕 Grappled",
         icon: "grab",
-        subtitle: "You are grappled",
-        description: "You are grappled",
+        subtitle: "你被抓獲了",
+        description: "你被抓獲了",
         reference: "PHB, pg. 290.",
         bullets: [
             "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
@@ -68,10 +68,10 @@ data_condition = [
         ]
     },
     {
-        title: "Incapacitated",
+        title: "喪失能力 Incapacitated",
         icon: "internal-injury",
-        subtitle: "You can't take actions or reactions",
-        description: "You can't take actions or reactions",
+        subtitle: "你不能行動或作出反射動作",
+        description: "你不能行動或作出反射動作",
         reference: "PHB, pg. 290.",
         bullets: [
         ]

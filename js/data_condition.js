@@ -1,6 +1,6 @@
 data_condition = [
     {
-        title: "Blinded",
+        title: "失明 Blinded",
         icon: "one-eyed",
         subtitle: "You can't see",
         description: "You can't see",
@@ -45,7 +45,7 @@ data_condition = [
         ]
     },
     {
-        title: "Frightened",
+        title: "驚嚇 Frightened",
         icon: "sharp-smile",
         subtitle: "You are frightened",
         description: "You are frightened",
@@ -56,7 +56,7 @@ data_condition = [
         ]
     },
     {
-        title: "Grappled",
+        title: "被抓捕 Grappled",
         icon: "grab",
         subtitle: "You are grappled",
         description: "You are grappled",
@@ -77,7 +77,7 @@ data_condition = [
         ]
     },
     {
-        title: "Invisible",
+        title: "隱形 Invisible",
         icon: "invisible",
         subtitle: "You can't be seen",
         description: "You can't be seen without the aid of magic or a special sense",
@@ -90,7 +90,7 @@ data_condition = [
         ]
     },
     {
-        title: "Paralyzed",
+        title: "癱瘓 Paralyzed",
         icon: "internal-injury",
         subtitle: "You are paralyzed",
         description: "You can't do anything",
@@ -102,7 +102,7 @@ data_condition = [
         ]
     },
     {
-        title: "Petrified",
+        title: "石化 Petrified",
         icon: "stone-pile",
         subtitle: "You are transformed into stone",
         description: "You are transformed, along with any nonmagical objects you are wearing or carrying, into a solid inanimate substance (usually stone)",
@@ -117,7 +117,7 @@ data_condition = [
         ]
     },
     {
-        title: "Poisoned",
+        title: "被毒害 Poisoned",
         icon: "deathcab",
         subtitle: "You are poisoned",
         description: "You are poisoned",
@@ -127,7 +127,7 @@ data_condition = [
         ]
     },
     {
-        title: "Prone",
+        title: "伏地 Prone",
         icon: "crawl",
         subtitle: "You are prone",
         description: "You are prone",
@@ -139,7 +139,7 @@ data_condition = [
         ]
     },
     {
-        title: "Restrained",
+        title: "拘束 Restrained",
         icon: "imprisoned",
         subtitle: "You are restrained",
         description: "You are restrained",
@@ -152,7 +152,7 @@ data_condition = [
         ]
     },
     {
-        title: "Stunned",
+        title: "錯愕 Stunned",
         icon: "internal-injury",
         subtitle: "You are stunned",
         description: "You are stunned",
@@ -164,7 +164,7 @@ data_condition = [
         ]
     },
     {
-        title: "Unconscious",
+        title: "失去意識 Unconscious",
         icon: "coma",
         subtitle: "You are unconscious",
         description: "You are unconscious",

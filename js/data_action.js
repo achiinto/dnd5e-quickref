@@ -7,10 +7,10 @@ data_action = [
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
             "某些功能，如 「額外攻擊」的戰士功能，可以讓你在一次行動中進行多過一次攻擊。每一次這樣的攻擊都有自己獨立的投骰並可以有其不同的攻擊目標。你亦可以在多次攻擊之間作出移動。",
-"當你用輕便近身武器進行攻擊時，你可以使用一次「額外行動」來以你的第二隻手作出攻擊 (請看 額外行動「次手攻擊」）",
-"你可以以 「抓捕」又或者「推開」來取代你的其中一次攻擊。",
-"某些情況是會對攻擊加上「優勢」（advantage)，如在當對失明的（blinded)、癱瘓的（paralyzed)、石化的（petrified)、拘束的（restrained)、錯愕的（stunned)、又或是失去意識的（unconscious)目標作出攻擊、又或是對倒地的（prone)目標作出近身攻擊、又或是被隱影的（invisible)或隱藏的（hidden)攻擊者攻擊的時候。",
-"某些情況是會對攻擊加上「劣勢」（disadvantage)，如在當對隱影的（invisible)或隱藏的（hidden)目標作出攻擊、又或對倒地的（prone)目標以遠距離攻擊、又或是在失明的（blinded)、驚嚇的（frightened)、被毒害的（poisoned)、拘束的（restrained)的狀況下作出攻擊的時候。"
+            "當你用輕便近身武器進行攻擊時，你可以使用一次「額外行動」來以你的第二隻手作出攻擊 (請看 額外行動「次手攻擊」）",
+            "你可以以 「抓捕」又或者「推開」來取代你的其中一次攻擊。",
+            "某些情況是會對攻擊加上「優勢」（advantage)，如在當對失明的（blinded)、癱瘓的（paralyzed)、石化的（petrified)、拘束的（restrained)、錯愕的（stunned)、又或是失去意識的（unconscious)目標作出攻擊、又或是對伏地的（prone)目標作出近身攻擊、又或是被隱形的（invisible)或隱藏的（hidden)攻擊者攻擊的時候。",
+            "某些情況是會對攻擊加上「劣勢」（disadvantage)，如在當對隱形的（invisible)或隱藏的（hidden)目標作出攻擊、又或對伏地的（prone)目標以遠距離攻擊、又或是在失明的（blinded)、驚嚇的（frightened)、被毒害的（poisoned)、拘束的（restrained)的狀況下作出攻擊的時候。"
         ]
     },
     {

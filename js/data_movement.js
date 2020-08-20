@@ -6,11 +6,11 @@ data_movement = [
         description: "移動消耗: 每 5 呎 消耗 5 呎",
         reference: "PHB, pg. 190.",
         bullets: [
-            "如果你已經移動了多過一次, 如你的步行速度和飛行速度, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you’ve already moved from the new speed.",
-            "You can move through a nonhostile creature‘s space.",
-            "You can move through a hostile creature’s space only if the creature is at least two sizes larger or smaller than you.",
-            "Another creature‘s space is difficult terrain for you.",
-            "Whether a creature is a friend or an enemy, you can’t willingly end your move in its space."
+            "如果你已經移動了多過一次, 例如你的步行速度和飛行速度, 你可以在你的移動期間在不同的移動型式間變換。當你需要轉換移動方式時，在剩餘的可移動力中減去你已經動用了的移動消費便可。",
+            "你可以移動經過對你無惡意的生物所處之空間。",
+            "你只可以移動經過對你有惡意的生物所處之空間，如果對方至少比你大又或者細你兩個身位。",
+            "另一個生物的所處空間對你來說是一個「困難地型」（difficult terrain)。",
+            "無論那生物是友好又或是敵對，你都不能夠在其身處空間完結你的移動回合。"
         ]
     },
     {
@@ -20,7 +20,7 @@ data_movement = [
         description: "移動消耗: 每 5 呎 消耗 10 呎攀爬",
         reference: "PHB, pg. 182.",
         bullets: [
-            "May involve a Strength (Athletics) check if the climb is difficult"
+            "如果攀爬的動作要求是艱難時，可以使用力量「運動」測試 （Strength Athletics)"
         ]
     },
     {
@@ -30,19 +30,19 @@ data_movement = [
         description: "移動消耗: 每 5 呎 消耗 10 呎游泳",
         reference: "PHB, pg. 182.",
         bullets: [
-            "May involve a Strength (Athletics) check if the swim is difficult"
+            "如果游泳的動作要求是艱難時，可以使用力量「運動」測試 （Strength Athletics)"
         ]
     },
     {
-        title: "倒下 Drop prone",
+        title: "倒下伏地 Drop prone",
         icon: "falling",
         subtitle: "消耗 0 呎",
         description: "移動消耗: 0 呎 (免費)",
         reference: "PHB, pgs. 190-191,292.",
         bullets: [
-            "You can drop prone without using any of your speed",
-            "To move while prone, you must crawl or use magic such as teleportation",
-            "Dropping prone adds the <i>Prone</i> condition (melee attacks against you have advantage, ranged attacks against you have disadvantage, your own attacks have disadvantage)"
+            "你可以將身體倒下在地上而無需使用任何你的移動力",
+            "在倒地後的情況下，你必需要以爬行或魔法幫助下（如瞬間轉移）來移動",
+            "倒下在地上會對角色加上「伏地」的狀況。（對你使用的近身攻擊能有「優勢」，對你使用的遠距離攻擊有「劣勢」，你自己作出的攻擊有「劣勢」）"
         ]
     },
     {

@@ -47,8 +47,8 @@ data_condition = [
     {
         title: "驚嚇 Frightened",
         icon: "sharp-smile",
-        subtitle: "You are frightened",
-        description: "You are frightened",
+        subtitle: "你被嚇着了",
+        description: "你被嚇着了",
         reference: "PHB, pg. 290.",
         bullets: [
             "You have disadvantage on ability checks and attack rolls while the source of your fear is within line of sight.",
@@ -79,8 +79,8 @@ data_condition = [
     {
         title: "隱形 Invisible",
         icon: "invisible",
-        subtitle: "You can't be seen",
-        description: "You can't be seen without the aid of magic or a special sense",
+        subtitle: "別人看不見你",
+        description: "別人在沒有魔法幫助或特別感官下看不見你",
         reference: "PHB, pg. 291.",
         bullets: [
             "For the purpose of hiding, you are heavily obscured.",
@@ -92,8 +92,8 @@ data_condition = [
     {
         title: "癱瘓 Paralyzed",
         icon: "internal-injury",
-        subtitle: "You are paralyzed",
-        description: "You can't do anything",
+        subtitle: "你的身體癱瘓了",
+        description: "你什麼也作不了",
         bullets: [
             "You are incapacitated and can't move or speak.",
             "Attack rolls against you have advantage.",
@@ -104,8 +104,8 @@ data_condition = [
     {
         title: "石化 Petrified",
         icon: "stone-pile",
-        subtitle: "You are transformed into stone",
-        description: "You are transformed, along with any nonmagical objects you are wearing or carrying, into a solid inanimate substance (usually stone)",
+        subtitle: "你被變成石像了",
+        description: "你和你身上那些不是魔法的用品一同地被變化成一個固體殭硬的物質（通常是石頭）",
         reference: "PHB, pg. 291.",
         bullets: [
             "Your weight increases by a factor of ten, and you cease aging.",
@@ -119,8 +119,8 @@ data_condition = [
     {
         title: "被毒害 Poisoned",
         icon: "deathcab",
-        subtitle: "You are poisoned",
-        description: "You are poisoned",
+        subtitle: "你中毒了",
+        description: "你中毒了",
         reference: "PHB, pg. 292.",
         bullets: [
             "You have disadvantage on attack rolls and ability checks."
@@ -129,8 +129,8 @@ data_condition = [
     {
         title: "伏地 Prone",
         icon: "crawl",
-        subtitle: "You are prone",
-        description: "You are prone",
+        subtitle: "你倒伏在地",
+        description: "你倒伏在地",
         reference: "PHB, pg. 292.",
         bullets: [
             "Your only movement option is to crawl, unless you stand up.",
@@ -141,8 +141,8 @@ data_condition = [
     {
         title: "拘束 Restrained",
         icon: "imprisoned",
-        subtitle: "You are restrained",
-        description: "You are restrained",
+        subtitle: "你被拘束着",
+        description: "你被拘束着",
         reference: "PHB, pg. 292.",
         bullets: [
             "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
@@ -154,8 +154,8 @@ data_condition = [
     {
         title: "錯愕 Stunned",
         icon: "internal-injury",
-        subtitle: "You are stunned",
-        description: "You are stunned",
+        subtitle: "你感覺錯愕",
+        description: "你感覺錯愕",
         reference: "PHB, pg. 292.",
         bullets: [
             "You are incapacitated, can't move, and can speak only falteringly.",
@@ -166,8 +166,8 @@ data_condition = [
     {
         title: "失去意識 Unconscious",
         icon: "coma",
-        subtitle: "You are unconscious",
-        description: "You are unconscious",
+        subtitle: "你已失去意識",
+        description: "你已失去意識",
         reference: "PHB, pg. 292.",
         bullets: [
             "You are incapacitated, can't move or speak, and are unaware of your surroundings.",

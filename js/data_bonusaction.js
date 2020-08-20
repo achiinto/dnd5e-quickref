@@ -26,7 +26,7 @@ data_bonusaction = [
     {
         title: "使用職業類別功能 Use class feature",
         icon: "embrassed-energy",
-        subtitle: "有些功能是要使用額外很行動的",
+        subtitle: "有些功能是要使用額外行動的",
         description: "使用一個需要用上額外行動的種族類別或職業類別功能",
         reference: "請參考「職業」資料頁。",
         bullets: [

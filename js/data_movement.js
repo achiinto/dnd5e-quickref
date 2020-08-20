@@ -62,7 +62,7 @@ data_movement = [
         description: "移動消耗: 角色一半的移動速度",
         reference: "PHB, pg. 190-191.",
         bullets: [
-            "You can‘t stand up if you don’t have enough movement left or if your speed is 0"
+            "如果你並沒有足夠的移動力又或者你的移動速度是零，你就不能夠站起來"
         ]
     },
     {
@@ -73,10 +73,10 @@ data_movement = [
         
         reference: "PHB, pg. 182.",
         bullets: [
-            "You leap into the air a number of feet equal to <b>3 + your Strength modifier</b> if you move at least 10 feet on foot immediately before the jump.",
-            "When you make a standing high jump, you can jump only half that distance.",
-            "You can extend your arms half your height above yourself during the jump.",
-            "In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher than you normally can."
+            "當你至少用腳行走了10呎遠後，你可以向上跳起至3 + 力量加減度 (Strength modifier)的呎高。",
+            "如果你在沒有助跑的情況下原地跳高，你只能夠條起至一半的高度。",
+            "當你跳起時，你可以把雙手提升至你自己身高的一半。",
+            "在某些情況下，你的地下城主可能會准許你做一次力量「運動」測試 （Strength Athletics)來決定你可否跳得比你平常所跳得高。"
         ]
     },
     {

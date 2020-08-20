@@ -65,8 +65,8 @@ data_action = [
     {
         title: "脫離 Disengage",
         icon: "journey",
-        subtitle: "Prevent opportunity attacks",
-        description: "Your movement doesn‘t provoke opportunity attacks for the rest of the turn",
+        subtitle: "免去機會性攻擊",
+        description: "你的整個角色回合中，所有移動動作都不會誘發機會性攻擊",
         reference: "PHB, pg. 192.",
         bullets: [
         ]
@@ -85,8 +85,8 @@ data_action = [
     {
         title: "逃脫 Escape",
         icon: "manacles",
-        subtitle: "Escape a grapple",
-        description: "Escape a grapple",
+        subtitle: "從抓捕中逃脫",
+        description: "從抓捕中逃脫",
         reference: "PHB, pg. 195.",
         bullets: [
             "To escape a grapple, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappler’s Strength (Athletics) check.",
@@ -96,8 +96,8 @@ data_action = [
     {
         title: "幫忙 Help",
         icon: "telepathy",
-        subtitle: "Grant an ally advantage",
-        description: "Grant an ally advantage on an ability check or attack",
+        subtitle: "讓一位同伴得到一次「優勢」",
+        description: "讓一位同伴在能力測試中或攻擊中得到一次「優勢」",
         reference: "PHB, pg. 192.",
         bullets: [
             "The target gains advantage on the next ability check it makes to perform the task you are helping with.",
@@ -108,8 +108,8 @@ data_action = [
     {
         title: "使用物品 Use Object",
         icon: "snatch",
-        subtitle: "Interact, use special abilities",
-        description: "Interact with a second object or use special object abilities",
+        subtitle: "與物品互動、使用特別能力",
+        description: "與第二件物件互動又或使用一件特別用品的特別能力",
         reference: "PHB, pg. 193.",
         bullets: [
             "You can interact with one object for free during your turn (such as drawing a weapon or opening a door). If you want to interact with a second object, use this action.",
@@ -119,8 +119,8 @@ data_action = [
     {
         title: "使用盾牌 Use shield",
         icon: "round-shield",
-        subtitle: "Equip or unequip a shield",
-        description: "Equip or unequip a shield",
+        subtitle: "裝上或放下盾牌",
+        description: "裝上或放下盾牌",
         reference: "PHB, pgs. 144-146.",
         bullets: [
             "A shield always takes an action to equip or unequip.",
@@ -131,7 +131,7 @@ data_action = [
         title: "躲藏 Hide",
         icon: "hood",
         subtitle: "",
-        description: "Attempt to hide",
+        description: "嘗試去躲藏",
         reference: "PHB, pg. 192.",
         bullets: [
             "You can‘t hide from a creature that can see you. You must have total cover, be in a heavily obscured area, be invisible, or otherwise block the enemy’s vision.",
@@ -145,17 +145,17 @@ data_action = [
         title: "搜尋 Search",
         icon: "magnifying-glass",
         subtitle: "",
-        description: "Devote your attention to finding something",
+        description: "花費你的注意力去尋找某樣事物",
         reference: "PHB, pg. 193.",
         bullets: [
             "Depending on the nature of your search, the DM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check."
         ]
     },
     {
-        title: "準備 Ready",
+        title: "預備 Ready",
         icon: "stopwatch",
-        subtitle: "Choose trigger and action",
-        description: "Choose a trigger and a response reaction",
+        subtitle: "選擇一樣啟機去反應",
+        description: "選擇一樣啟機去作出反射動作行動",
         reference: "PHB, pg. 193.",
         bullets: [
             "First, you decide what perceivable circumstance will trigger your reaction.",
@@ -167,9 +167,9 @@ data_action = [
     {
         title: "使用職業類別功能 Use a class feature",
         icon: "embrassed-energy",
-        subtitle: "Some features use actions",
-        description: "Use a racial or class feature that uses an action",
-        reference: "See class page for more information.",
+        subtitle: "有些功能是要使用行動的",
+        description: "使用一個需要用上行動的種族類別或職業類別功能",
+        reference: "請參考「職業」資料頁。",
         bullets: [
 
         ]
@@ -177,11 +177,11 @@ data_action = [
     {
         title: "除意創意 Improvise",
         icon: "juggler",
-        subtitle: "Any action not on this list",
-        description: "Perform any action you can imagine",
+        subtitle: "不在此清單上的任何行動",
+        description: "執行你可以想像的任何行動",
         reference: "PHB, pg. 193.",
         bullets: [
-            "When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
+            "當你所形容的動作沒有在規則中存在，你的地下城主會跟你說明是否可能並且有需要投什麼骰來決定成敗。"
         ]
     }
 ]

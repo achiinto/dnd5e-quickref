@@ -1,19 +1,19 @@
 data_environment_obscurance = [
     {
-        title: "Lightly obscured",
+        title: "輕度朦朧 Lightly obscured",
         icon: "bleeding-eye",
-        subtitle: "Disadvantage on Perception",
-        description: "Dim light, patchy fog, moderate foliage",
+        subtitle: "使用「感覺檢查」（Perception）時處「劣勢」",
+        description: "微暗光線、 片段的霧霾、 中度密度的草叢",
         reference: "PHB, pg. 183.",
         bullets: [
             "Creatures have <b>disadvantage on Wisdom (Perception)</b> checks that rely on sight."
         ]
     },
     {
-        title: "Heavily obscured",
+        title: "嚴重朦朧 Heavily obscured",
         icon: "lightning-tear",
-        subtitle: "Effectively blind",
-        description: "Darkness, opaque fog, dense foliage",
+        subtitle: "基本上失去視力",
+        description: "完全黑暗、 濃厚的霧霾, 濃密的草叢",
         reference: "PHB, pg. 183.",
         bullets: [
             "A creature in a heavily obscured area effectively suffers from the <b>blinded condition</b>."
@@ -23,9 +23,9 @@ data_environment_obscurance = [
 
 data_environment_light = [
     {
-        title: "Bright light",
+        title: "明亮的光線",
         icon: "star-pupil",
-        subtitle: "Normal vision",
+        subtitle: "正常視力",
         description: "Bright light lets most creatures see normally",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -33,9 +33,9 @@ data_environment_light = [
         ]
     },
     {
-        title: "Dim light",
+        title: "暗淡的光線",
         icon: "semi-closed-eye",
-        subtitle: "Lightly obscured",
+        subtitle: "輕度朦朧",
         description: "Dim light, also called shadows",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -45,9 +45,9 @@ data_environment_light = [
         ]
     },
     {
-        title: "Darkness",
+        title: "黑暗",
         icon: "worried-eyes",
-        subtitle: "Heavily obscured",
+        subtitle: "嚴重朦朧",
         description: "Darkness creates a heavily obscured area",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -59,9 +59,9 @@ data_environment_light = [
 
 data_environment_vision = [
     {
-        title: "Blindsight",
+        title: "盲視覺 Blindsight",
         icon: "one-eyed",
-        subtitle: "Perceive without sight",
+        subtitle: "無需視覺來感受周圍",
         description: "Perceive your surroundings without relying on sight, within a certain radius",
         reference: "PHB, pg. 183.",
         bullets: [
@@ -69,9 +69,9 @@ data_environment_vision = [
         ]
     },
     {
-        title: "Darkvision",
+        title: "黑暗視覺 Darkvision",
         icon: "semi-closed-eye",
-        subtitle: "Limited vision in darkness",
+        subtitle: "在黑暗中擁有有限度視力",
         description: "A creature with Darkvision can see better in the dark or low light conditions, within a certain radius",
         reference: "PHB, pgs. 183-184.",
         bullets: [
@@ -81,9 +81,9 @@ data_environment_vision = [
         ]
     },
     {
-        title: "Truesight",
+        title: "真實視覺 Truesight",
         icon: "eye-shield",
-        subtitle: "See in darkness",
+        subtitle: "在黑暗中看得見",
         description: "A creature with truesight can see everything in its true form, independent of the environment",
         reference: "PHB, pg. 184.",
         bullets: [
@@ -95,9 +95,9 @@ data_environment_vision = [
 
 data_environment_cover = [
     {
-        title: "Half cover",
+        title: "半遮擋 Half cover",
         icon: "broken-shield",
-        subtitle: "Low wall, furniture, creatures",
+        subtitle: "矮牆、 傢俬、 生物",
         description: "A target has half cover if an obstacle blocks at least half of its body",
         reference: "PHB, pg. 196.",
         bullets: [
@@ -107,9 +107,9 @@ data_environment_cover = [
         ]
     },
     {
-        title: "Three-quarters cover",
+        title: "三分四遮擋 Three-quarters cover",
         icon: "cracked-shield",
-        subtitle: "Portcullis, arrow slit",
+        subtitle: "城門閘門、 射箭狹縫",
         description: "A target has three-quarters cover if about three-quarters of it is covered by an obstacle",
         reference: "PHB, pg. 196.",
         bullets: [
@@ -119,9 +119,9 @@ data_environment_cover = [
         ]
     },
     {
-        title: "Full cover",
+        title: "完全遮擋 Full cover",
         icon: "shield",
-        subtitle: "Completely concealed",
+        subtitle: "完全地被遮蓋",
         description: "A target has total cover if it is completely concealed by an obstacle",
         reference: "PHB, pg. 196.",
         bullets: [

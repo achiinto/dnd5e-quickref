@@ -20,9 +20,9 @@ data_action = [
         description: "嘗試去捉拿一個生物或與之鬥力",
         reference: "PHB, pg. 195.",
         bullets: [
-            "You can use the <i>Attack</i> action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your grapple must be no more than one size larger than you, and it must be within your reach.",
-            "Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target‘s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
+            "你可以使用你的攻擊行動來實行一個特別近身攻擊、抓捕。如果你能夠作出多次攻擊，這個特別攻擊取代其中一個攻擊。",
+            "你所抓捕的對像只可以是比你的體型大一身碼之內，而且目標對像也要是你的近身攻擊範圍內。",
+            "在擁有至少一隻能自由活動的手的情況下，你嘗試以「抓捕」來抓着你的目標。這是一個力量度「運動」測試 （Strength Athletics)與攻擊對像的力量度「運動」測試 （Strength Athletics)或敏捷度「雜技」測試 （Dexterity Acrobatics)的比拚。被攻擊對像可選擇用那個能力的測試。",
             "如果你成功，你令到你的對手進入到被找捕的情況 (他的移動力降低至零）。"
         ]
     },
@@ -33,10 +33,10 @@ data_action = [
         description: "把一個生物推倒或從你身邊推離",
         reference: "PHB, pg. 195.",
         bullets: [
-            "Using the <i>Attack</i> action, you can make a special melee attack to shove a creature. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your shove must be no more than one size larger than you, and it must be within your reach.",
-            "You make a Strength (Athletics) check contested by the target‘s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
-            "If you win the contest, you either knock the target prone or push it 5 feet away from you."
+            "你可以使用你的攻擊行動來實行一個特別近身攻擊去推開一個生物。如果你能夠作出多次攻擊，這個特別攻擊取代其中一個攻擊。",
+            "你所推開的對像只可以是比你的體型大一身碼之內，而且目標對像也要是你的近身攻擊範圍內。",
+            "你要以一個力量度「運動」測試 （Strength Athletics)與攻擊對像的力量度「運動」測試 （Strength Athletics)或敏捷度「雜技」測試 （Dexterity Acrobatics)的比拚。被攻擊對像可選擇用那個能力的測試。",
+            "如你在比拚中勝出，我可以把目標對像推跌或推開至距離你的5 呎之遠。"
         ]
     },
     {

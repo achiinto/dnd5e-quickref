@@ -107,7 +107,7 @@ data_environment_cover = [
         ]
     },
     {
-        title: "三分四遮擋 Three-quarters cover",
+        title: "四分三遮擋 Three-quarters cover",
         icon: "cracked-shield",
         subtitle: "城門閘門、 射箭狹縫",
         description: "A target has three-quarters cover if about three-quarters of it is covered by an obstacle",

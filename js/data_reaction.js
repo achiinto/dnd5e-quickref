@@ -3,13 +3,13 @@ data_reaction = [
         title: "機會性攻擊 Opportunity attack",
         icon: "crossed-swords",
         subtitle: "敵人離開了你的近身攻擊範圍",
-        description: "You can rarely move heedlessly past your foes without putting yourself in danger",
+        description: "沒有多少人可以輕鬆地經過敵人的身邊而又沒有將自己至身於危險之中。",
         reference: "PHB, pg. 195.",
         bullets: [
             "啟機: 敵人離開了你的近身攻擊範圍時。",
-            "Make one melee attack against the provoking creature.",
-            "The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.",
-            "Creatures don't provoke an opportunity attack when they teleport or when someone or something moves them without using their movement, action, or reaction."
+            "對那個誘發攻擊機會的生物作出一個近身攻擊。",
+            "那攻擊中途打斷那個誘發機會的生物之移動路線，這正是那生物正要離開你的攻擊範圍時。",
+            "生物在「瞬間轉移」時或是當某人或某物將那生物移離而又無需那生物作出移動、行動、又或者反射動作時，那生物不會誘發攻擊機會。"   
         ]
     },
     {

@@ -19,8 +19,8 @@ data_bonusaction = [
         description: "使用一個可在一個額外行動內詠唱而成的魔法",
         reference: "PHB, pg. 192.",
         bullets: [
-            "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "你不能以行動來使用魔法又同時在同一個角色回合中以額外行動來使用另一個魔法。除非那個行動是用來使用一個「輕量魔法」（Cantrip)。",
+            "請參考「使用魔法」行動的細節。"
         ]
     },
     {

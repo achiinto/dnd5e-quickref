@@ -108,13 +108,13 @@ data_action = [
     {
         title: "使用物品 Use Object",
         icon: "snatch",
-        subtitle: "與物品互動、使用特別能力",
-        description: "與第二件物件互動又或使用一件特別用品的特別能力",
+        subtitle: "操作物品、使用特別能力",
+        description: "操作第二件物件又或使用一件特別用品的特殊能力",
         reference: "PHB, pg. 193.",
         bullets: [
-            "You can interact with one object for free during your turn (such as drawing a weapon or opening a door). If you want to interact with a second object, use this action.",
-            "When an object requires your action for its use, you also take this action."
-        ]
+            "在每一個角色回合中，你可以有空閒操作一件物件。如拿出你的武器又或是打開一扇門。但如要再操作另一件物件，你就需要使用這個行動。",
+            "當一件物件指明需要你使用這個行動來操作時，你也要使用這行動。"
+            ]
     },
     {
         title: "使用盾牌 Use shield",

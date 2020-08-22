@@ -59,7 +59,7 @@ data_action = [
         description: "在現時的角色回合中得到額外的移動距離",
         reference: "PHB, pg. 192.",
         bullets: [
-            "The increase equals your speed, after applying any modifiers."
+            "這行動等同於讓你可移動你的移動速度多一次，在應用了其它加減值後。"
         ]
     },
     {
@@ -78,8 +78,8 @@ data_action = [
         description: "完全集中在避開對自身的所有攻擊",
         reference: "PHB, pg. 192.",
         bullets: [
-            "Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage.",
-            "You lose this benefit if you are <i>incapacitated</i> or if your speed drops to 0."
+            "直至到你的下一個角色回合開始時，任何一個對你投骰的攻擊骰、在你能夠看得見那個攻擊者時、都是處於「劣勢」。你也可以在投「敏捷度挽救骰」（Dexterity saving throw)時處於「優勢」。",
+            "當你是「喪失能力」時又或是你的移動速度是零時，你便失去這個好處。"            
         ]
     },
     {
@@ -89,8 +89,8 @@ data_action = [
         description: "從抓捕中逃脫",
         reference: "PHB, pg. 195.",
         bullets: [
-            "To escape a grapple, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappler’s Strength (Athletics) check.",
-            "Escaping other conditions that restrain you (such as manacles) may require a Dexterity or Strength check, as specified by the condition."
+            "在你嘗試由「抓捕」着你的對像手中「逃脫」時，你必需以力量度「運動」測試 （Strength Athletics)或敏捷度「雜技」測試 （Dexterity Acrobatics)來和對手的力量度「運動」測試 （Strength Athletics)比拚並勝出。",
+            "當你要由其它另類的克制狀況下逃脫、如手銬、你可能要跟據那個克制狀況所要求的細節來作一個敏捷度測試或力量度測試。"
         ]
     },
     {
